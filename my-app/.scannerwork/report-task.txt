@@ -1,0 +1,6 @@
+projectKey=test_alm2019
+serverUrl=http://localhost:9000
+serverVersion=6.7.7.38951
+dashboardUrl=http://localhost:9000/dashboard/index/test_alm2019
+ceTaskId=AWrZE9QOT94-mPmM__AS
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWrZE9QOT94-mPmM__AS
